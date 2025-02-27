@@ -1,0 +1,9 @@
+# Add file name 
+secret.key
+# Ignoring the folder 
+
+build/
+
+#  Ignoring file with extension 
+
+*.js
